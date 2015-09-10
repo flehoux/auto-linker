@@ -1,2 +1,2 @@
 # auto-linker
-Automatically link mentions, hashtags, urls and emails from multiple providers (twitter, instagram, facebook, ...)
+Automatically replace mentions, hashtags, urls and emails with links for multiple services (twitter, instagram, facebook, ...)
