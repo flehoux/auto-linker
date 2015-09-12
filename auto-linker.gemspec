@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "auto-linker"
-  s.version     = "0.0.0"
+  s.version     = "0.0.1"
   s.authors     = ["François Lehoux"]
   s.email       = ["f.lehoux2@gmail.com"]
   s.homepage    = "https://github.com/flehoux/auto-linker"
