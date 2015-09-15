@@ -1,3 +1,5 @@
+require "rinku"
+
 %w(
   config/instagram
   config/twitter

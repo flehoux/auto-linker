@@ -8,4 +8,6 @@ Gem::Specification.new do |s|
   s.description = "Automatically replace mentions, hashtags, urls and emails with links for multiple services (twitter, instagram, facebook, ...)"
   s.license     = "MIT"
   s.files       = Dir['lib/**/*.rb'] # `git ls-files`.split("\n")
+
+  s.add_dependency('rinku',     '>= 1.7.2')
 end
