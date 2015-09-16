@@ -2,6 +2,7 @@ auto-linker
 -----------
 Automatically replace mentions, hashtags, urls and emails with links for multiple services (twitter, instagram, facebook, ...)
 
+[![Gem Version](https://badge.fury.io/rb/auto-linker.svg)](http://badge.fury.io/rb/auto-linker)
 
 Installation
 -------------
