@@ -55,7 +55,6 @@ Autolinker.parse(text, Autolinker::Config::INSTAGRAM, {
 * :handle_class (String)
 * :hashtag_class (String)
 * :url_class (String)
-* :email_class (String)
 * :handle_url_base (String)
 * :hashtag_url_base (String)
 * :target (String)

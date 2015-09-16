@@ -4,7 +4,6 @@ class Autolinker
       :handle_class => "linked-url handle".freeze,
       :hashtag_class  => "linked-url hashtag".freeze,
       :url_class  => "linked-url url".freeze,
-      :email_class  => "linked-url email".freeze,
 
       :handle_url_base => "https://twitter.com/".freeze,
       :hashtag_url_base  => "https://twitter.com/#!/search?q=%23".freeze,
